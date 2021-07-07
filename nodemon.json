@@ -1,0 +1,7 @@
+{
+  "env": {
+    "DB_PW": "DevJob@2021",
+    "DB_NAME": "rathoredeveshbly",
+    "JWT_KEY": "secret"
+  }
+}
